@@ -1,0 +1,4 @@
+# Automatic Installation
+
+* CentOS
+* Debian
